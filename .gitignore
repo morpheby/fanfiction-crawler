@@ -1,0 +1,13 @@
+
+Packages
+.build
+xcuserdata
+*.xcodeproj
+DerivedData/
+.DS_Store
+
+Package.pins
+
+Podfile.lock
+Pods/
+
